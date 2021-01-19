@@ -1,0 +1,13 @@
+using System; 
+
+class URI {
+
+    static void Main(string[] args) { 
+        string nome = Console.ReadLine();
+        double fixo = double.Parse(Console.ReadLine());
+        double vendas = double.Parse(Console.ReadLine());
+        
+        double comi = (vendas * 0.15);
+        Console.WriteLine($"Total = R$ {(fixo+comi):0.00}");
+    }
+}
