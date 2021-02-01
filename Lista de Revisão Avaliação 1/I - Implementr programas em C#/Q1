@@ -1,3 +1,11 @@
 I. Exercícios de Revisão. Implementar programas em C# para:
 1. Calcular a densidade demográfica de um estado brasileiro, dados o nome do estado, a população e a área do
 estado.
+Digite o nome do estado:
+Rio Grande do Norte
+Digite o número de habitantes:
+3168133
+Digite a área do estado em Km2
+:
+52796,791
+A densidade demográfica do Rio Grande do Norte é de 60,0 hab/Km2
